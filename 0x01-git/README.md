@@ -1,1 +1,1 @@
-non empty readme
+This is a pre-course assignment
