@@ -1,1 +1,1 @@
-this is a pre-course assignment
+My first readme
